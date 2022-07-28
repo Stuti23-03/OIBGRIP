@@ -1,0 +1,26 @@
+body{
+    background: url("https://i.pinimg.com/736x/9c/27/6f/9c276f6ef255bc4a220aaed382f180a3--summer-wallpaper-mac-wallpaper.jpg");
+    background-repeat: no-repeat;
+  background-size: 100%;
+     
+ }
+h1{
+    text-align: center;
+}
+
+.todos{
+    margin: 10px;
+}
+
+.card-top{
+    text-align: center; 
+    font-size: 30px;
+}
+
+.card-main{
+    text-align: center;
+}
+
+.card-col{
+    margin-top:10px;
+}
